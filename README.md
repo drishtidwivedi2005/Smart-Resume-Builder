@@ -5,14 +5,14 @@ This project helps users create ATS-friendly resumes, manage saved resumes, anal
 
 ---
 
-## 🚀 Features
+## Features
 
-### 👤 User Authentication
+### User Authentication
 - User Registration
 - Secure Login System
 - Logout Option
 
-### 📄 Resume Builder
+### Resume Builder
 - Create professional ATS-friendly resumes
 - Custom Resume Name
 - Sections Included:
@@ -28,7 +28,7 @@ This project helps users create ATS-friendly resumes, manage saved resumes, anal
   - Experience
   - Certifications
 
-### 📂 Saved Resume Manager
+### Saved Resume Manager
 - View all saved resumes
 - Search resumes
 - Rename resume title
@@ -36,7 +36,7 @@ This project helps users create ATS-friendly resumes, manage saved resumes, anal
 - Live Preview Resume
 - Export Resume
 
-### 🤖 ATS Resume Analyzer
+### ATS Resume Analyzer
 - Analyze saved resumes
 - Generate ATS Score out of 100
 - Resume Rating:
@@ -47,19 +47,19 @@ This project helps users create ATS-friendly resumes, manage saved resumes, anal
 - Keyword Detection
 - Improvement Suggestions
 
-### 🎨 UI Enhancements
+### UI Enhancements
 - Dark Mode / Light Mode
 - Professional Dashboard
 - Real-time Statistics
 
-### 📊 Dashboard Analytics
+### Dashboard Analytics
 - Total Resumes
 - Average ATS Score
 - Interview Ready Count
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Java
 - Java Swing
@@ -71,7 +71,7 @@ This project helps users create ATS-friendly resumes, manage saved resumes, anal
 
 ---
 
-## 🗄️ Database Design
+## Database Design
 
 Main Tables:
 
@@ -88,7 +88,7 @@ Includes:
 
 ---
 
-## 🧪 Testing Implemented
+## Testing Implemented
 
 ### Unit Testing
 - Login Validation Test
@@ -101,7 +101,7 @@ All tests passed successfully using JUnit.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Smart-Resume-Builder/
