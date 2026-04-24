@@ -24,9 +24,11 @@ This project helps users create ATS-friendly resumes, manage resumes, analyze AT
 
 <img width="644" height="636" alt="Screenshot 2026-04-25 041026" src="https://github.com/user-attachments/assets/8b3f3077-5a55-45d6-8d67-e361c7cbf45d" />
 
+---
 
 <img width="1365" height="857" alt="Screenshot 2026-04-25 041123" src="https://github.com/user-attachments/assets/e3b3af00-8279-4dae-ac94-fce64c969f7e" />
 
+---
 
 <img width="1231" height="851" alt="Screenshot 2026-04-25 041225" src="https://github.com/user-attachments/assets/f03dc944-4b1a-4c39-84e1-de0c5fb2969b" />
 
