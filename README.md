@@ -41,7 +41,7 @@ This project helps users create ATS-friendly resumes, manage resumes, analyze AT
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 - Java
 - Swing
@@ -53,7 +53,7 @@ This project helps users create ATS-friendly resumes, manage resumes, analyze AT
 
 ---
 
-# 🧪 Testing
+#  Testing
 
 ### Unit Testing
 - Login Validation
@@ -66,7 +66,7 @@ All tests passed successfully.
 
 ---
 
-# 📁 Project Structure
+#  Project Structure
 
 ```text
 Smart-Resume-Builder/
