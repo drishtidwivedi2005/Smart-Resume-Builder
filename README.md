@@ -1,68 +1,50 @@
 # Smart Resume Builder
 
-A professional Java desktop application built using **Java Swing, MySQL, JDBC, Git, GitHub, and JUnit Testing**.  
-This project helps users create ATS-friendly resumes, manage saved resumes, analyze resume quality, and export resumes professionally.
+A professional Java desktop application built using **Java Swing, MySQL, JDBC, Git, GitHub, and JUnit Testing**.
+
+This project helps users create ATS-friendly resumes, manage resumes, analyze ATS score, and export resumes professionally.
 
 ---
 
-## Features
+#  Features
 
-### User Authentication
-- User Registration
-- Secure Login System
-- Logout Option
-
-### Resume Builder
-- Create professional ATS-friendly resumes
-- Custom Resume Name
-- Sections Included:
-  - Full Name
-  - Email
-  - Phone
-  - LinkedIn
-  - GitHub
-  - Summary
-  - Skills
-  - Education
-  - Projects
-  - Experience
-  - Certifications
-
-### Saved Resume Manager
-- View all saved resumes
-- Search resumes
-- Rename resume title
-- Delete resumes
-- Live Preview Resume
-- Export Resume
-
-### ATS Resume Analyzer
-- Analyze saved resumes
-- Generate ATS Score out of 100
-- Resume Rating:
-  - Excellent
-  - Strong
-  - Average
-  - Needs Improvement
-- Keyword Detection
-- Improvement Suggestions
-
-### UI Enhancements
-- Dark Mode / Light Mode
-- Professional Dashboard
-- Real-time Statistics
-
-### Dashboard Analytics
-- Total Resumes
-- Average ATS Score
-- Interview Ready Count
+- User Registration & Login
+- Resume Builder
+- Saved Resume Manager
+- ATS Resume Analyzer
+- Dark / Light Mode
+- Resume Export
+- Dashboard Analytics
+- JUnit Testing
 
 ---
 
-## Technologies Used
+#  Screenshots
+
+##  Login Page
+
+<img width="644" height="636" alt="Screenshot 2026-04-25 041026" src="https://github.com/user-attachments/assets/8b3f3077-5a55-45d6-8d67-e361c7cbf45d" />
+
+
+---
+
+##  Dashboard
+
+<img width="1365" height="857" alt="Screenshot 2026-04-25 041123" src="https://github.com/user-attachments/assets/e3b3af00-8279-4dae-ac94-fce64c969f7e" />
+
+
+---
+
+##  Resume Builder
+
+<img width="1231" height="851" alt="Screenshot 2026-04-25 041225" src="https://github.com/user-attachments/assets/f03dc944-4b1a-4c39-84e1-de0c5fb2969b" />
+
+---
+
+# 🛠️ Technologies Used
 
 - Java
-- Java Swing
+- Swing
 - MySQL
 - JDBC
 - Git
@@ -71,46 +53,25 @@ This project helps users create ATS-friendly resumes, manage saved resumes, anal
 
 ---
 
-## Database Design
-
-Main Tables:
-
-- users
-- resumes
-- education
-- experience
-- skills
-
-Includes:
-- Primary Keys
-- Foreign Keys
-- Cascading Deletes
-
----
-
-## Testing Implemented
+# 🧪 Testing
 
 ### Unit Testing
-- Login Validation Test
+- Login Validation
 - ATS Score Test
 
 ### Integration Testing
 - Database Connection Test
 
-All tests passed successfully using JUnit.
+All tests passed successfully.
 
 ---
 
-## Project Structure
+# 📁 Project Structure
 
 ```text
 Smart-Resume-Builder/
 │── src/
-│   ├── ui/
-│   ├── db/
-│   ├── util/
-│   └── test/
-│
 │── lib/
 │── sql/
+│── screenshots/
 │── README.md
